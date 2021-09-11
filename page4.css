@@ -1,0 +1,106 @@
+.main1 {
+
+}
+
+.trip-to-paris {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.back {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    color: grey;
+}
+
+.main2{
+    border: 2px solid red;
+    text-align: center;
+    margin-left: 10%;
+    width: 75%;
+    height: 400px;
+    border-radius: 12px;
+    box-shadow: 2px 4px 10px lightslategray;
+    position: relative;
+
+}
+
+.border {
+    width: 40%;
+    margin:auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    filter: blur(8px);
+    position: relative;
+}
+
+.t-t-p {
+    margin-top: 20px;
+    color: red;
+    font-size: 35px;
+}
+
+.hr {
+    margin-left: 120px;
+}
+
+.completed-task {
+    margin-top: 40px;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.plus-icon {
+    position: absolute;
+    left: 90%;
+    top: 85%;
+}
+
+#one {
+    vertical-align: middle;
+}
+
+.flex {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    align-content: center;
+}
+
+.pending-task {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.main21 {
+    position: absolute;
+    bottom: 35%;
+    right: 20px;
+    left: 5px;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin-left: 600px;
+    margin-right: 600px;
+    background: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.middle1 {
+    border: 1px solid black;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.add-new-list1 {
+    color: red;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}

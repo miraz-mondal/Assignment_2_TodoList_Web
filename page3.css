@@ -1,0 +1,112 @@
+.header1 {
+    filter: blur(8px);
+}
+
+.task-lists1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 180px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.task {   
+    position: absolute;
+    left: 350px;    
+}
+
+.heading-1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.heading-2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: lighter;
+    color: grey;
+}
+
+.add-list {
+    position: absolute;
+    right: 350px;     
+ 
+}
+
+.add-list1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    font-weight: lighter; 
+    color: grey;
+}
+
+.tasks-lists {
+    display: flex;
+    align: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.t-t-p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    font-weight: lighter;
+    color: red;
+}
+
+.hr {
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.todo {
+    border-width: 30%;
+    margin-top: 25px;
+    border-style: solid;
+    border-color:red;
+    border-radius: 13px;
+    text-align: center;
+    width:225px;
+    height:350px;
+    align-content:space-between;
+    color: red;
+    box-shadow: 2px 4px 10px lightslategray;
+}
+
+.pending-task {
+    color: #000000;
+}
+
+.main2 {
+    position: absolute;
+    bottom: 35%;
+    right: 20px;
+    left: 5px;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin-left: 600px;
+    margin-right: 600px;
+    background: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.middle {
+    border: 1px solid black;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.add-new-list {
+    color: red;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
